@@ -35,7 +35,7 @@ IT professional with over 5 years of experience supporting critical systems, Ora
 
 **Development**
 
-![Java](https://img.shields.io/badge/Java-E D8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -78,9 +78,7 @@ IT professional with over 5 years of experience supporting critical systems, Ora
 | Course | Institution | Year |
 |---|---|---|
 | Postgraduate in Product Management | — | 2025 |
-
 | Postgraduate Degree in Software Engineering | — | 2024 |
-
 | Bachelor's Degree in Computer Science | — | 2020 |
 
 ---
